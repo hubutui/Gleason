@@ -20,3 +20,6 @@ To run the training, simply run `python train.py`, check `python train_gleason.p
 
 ## Inference
 To run the inference, simply run `python inference.py`, check `python inference.py --help` for available args.
+
+## Note
+I don't quite understand task2, and got it wrong when I participated this challenge. I would sincerely advise you read [this paper](https://ieeexplore.ieee.org/abstract/document/8853320/), which is written by the organizers and submitted to JBHI, for more detail about this challenge. I would not update any codes in this repository anymore. 
