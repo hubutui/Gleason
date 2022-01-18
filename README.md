@@ -1,3 +1,6 @@
+# Update 20220118
+This repo is archived since there is no updates, and I'm working on it anymore. For any question about the challenge, ask the organizers for help.
+
 # PSPNet for MICCAI Automatic Prostate Gleason Grading Challenge 2019
 This is the code for MICCAI Automatic Prostate Gleason Grading Challenge 2019. Check [here](https://gleason2019.grand-challenge.org/Home/) and [here](https://bmiai.ubc.ca/research/miccai-automatic-prostate-gleason-grading-challenge-2019), we took the 1st place of task 1: pixel-level Gleason grade prediction and task 2: core-level Gleason score prediction ([leaderboard](https://gleason2019.grand-challenge.org/Results/)).
 
